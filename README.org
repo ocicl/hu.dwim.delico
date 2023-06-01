@@ -1,0 +1,9 @@
+* hu.dwim.delico
+
+delimited continuations for Common Lisp
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/hu-dwim/hu.dwim.delico.git |
+| commit  | 7cd4a30                                           |
+| systems | hu.dwim.delico                                    |
+|---------+---------------------------------------------------|
